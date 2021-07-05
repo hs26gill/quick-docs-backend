@@ -1,0 +1,27 @@
+{
+  "name": "quick-docs-backend",
+  "version": "1.0.0",
+  "description": "Node backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hs26gill/quick-docs-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hs26gill/quick-docs-backend/issues"
+  },
+  "homepage": "https://github.com/hs26gill/quick-docs-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
